@@ -1,0 +1,108 @@
+﻿body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, legend, button form, fieldset, input, textarea, p, blockquote, th, td, table, tr, td {
+padding: 0;
+margin: 0;
+}
+ul li {
+list-style: outside none none;
+}
+fieldset, img, abbr, acronym {
+border: 0 none;
+}
+abbr, acronym {
+font-variant: normal;
+}
+legend {
+color: #000;
+}
+address, caption, cite, code, dfn, em, strong, th, var {
+	　　font-weight: normal;
+	　　font-style: normal;
+	color: #00F;
+}
+h1, h2, h3, h4, h5, h6 {
+　　font-weight: normal;
+　　font-size: 100%;
+}
+del, ins, a {
+text-decoration: none;
+}
+a:link {
+color: #009;
+}
+a:visited {
+color: #800080;
+}
+a:hover, a:active, a:focus {
+color: #c00;
+text-decoration: underline;
+}
+table {
+　　 border-collapse: collapse;
+border-spacing: 0;
+border-color: #333;
+text-align: center;
+border: solid 1px thin;
+}
+body {
+font-size: 14px;
+font-family: microsoft yahei;
+background-color: #FFF;
+}
+.red {
+color: #C00;
+font-size: 18px;
+text-align: center;
+}
+.green1 {
+color: #000000;
+background: #eeffaa;
+}
+.green2 {
+color: #000000;
+background: #ccff99;
+}
+table.border {
+border-top: #000 1px solid;
+border-left: #000 1px solid;
+}
+table.border td {
+border-bottom: #000 1px solid;
+border-right: #000 1px solid;
+font-size: 14px;
+}
+tr:hover {
+background-color: #BBB;
+cursor: pointer;
+}
+tr:first-child:hover {
+background: #fff !important;
+cursor: auto !important;
+}
+tr:nth-child(2):hover {
+background: #fff !important;
+cursor: auto !important;
+}
+table#border tr:hover {
+}
+#except {
+background: #fefefe
+}
+#zg tr:hover {
+cursor: auto !important;
+}
+/*侧导航栏*/
+.side {
+position: absolute;
+right: 0;
+top: 200px;
+z-index: 100;
+width: 200px;
+height: 210px;
+background-color: #666;
+color: #fff;
+font: bold 16px "microsoft yahei";
+text-align: center;
+border: 1px sold #666;
+border-radius: 15px;
+}
+/*侧导航栏结束*/

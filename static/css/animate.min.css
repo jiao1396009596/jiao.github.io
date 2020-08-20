@@ -1,0 +1,500 @@
+﻿         <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>美国服务器_美国服务器租用_香港服务器_香港服务器租用_韩国服务器_韩国服务器租用_海外服务器_海外服务器租用_国外服务器_国外服务器租用-巨牛云</title>
+	<meta name="Keywords" content="美国服务器,美国服务器租用,香港服务器,香港服务器租用,韩国服务器,韩国服务器租用,海外服务器,海外服务器租用,国外服务器,国外服务器租用"  />
+	<meta name="Description" content="巨牛云（Www.Icidc.Com），主营：美国服务器、美国服务器租用、香港服务器、香港服务器租用、韩国服务器、韩国服务器租用、海外服务器、海外服务器租用、国外服务器、国外服务器租用等业务，QQ:4006066557，欢迎来电咨询，公司还提供日本服务器、台湾服务器等其他海外服务器业务供您选择！"  />
+    <!-- CSS -->
+    <link href="/static/css/bootstrap.css" rel="stylesheet">
+    <link href="/static/css/font-awesome.min.css" rel="stylesheet" >
+    <link href="/static/css/animate.min.css" rel="stylesheet">
+    <link href="/static/css/lightbox.css" rel="stylesheet">
+    <link href="/static/css/style.css" rel="stylesheet">
+    <link href="/static/css/color-intenseblue.css" rel="stylesheet">
+	<link href="/static/css/other.css" rel="stylesheet" >
+	<link href="/static/css/kf.css" rel="stylesheet" >
+	<link href="/static/css/jquery-ui.custom.css" rel="stylesheet" >
+	<!--[if lt IE 9]>
+        <script src="/static/js/html5shiv.js"></script>
+        <script src="/static/js/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+<div class="topbar">
+<div class="container">
+<div class="bar">
+            <a href="javascript:void();" style="cursor:pointer;" onClick="opendialog('http://crm2.qq.com/page/portalpage/wpa.php?uin=4006066557&cref=www.icidc.com&ref=&pt=&f=1&ty=1&ap=&as=&aty=2&a=2&dm=qq.com&sv=4&sp=&ref='+document.location,'644','540')"><i class="icon-qq"></i><span style="line-height:30px;">4006066557 </span></a>
+            <i class="icon-tel margin10"></i> 400-6066-557
+            <a href="http://my.icidc.com/register.php" target="_parent"><span class="font14 margin10 console">注册账户</span></a>
+            <a href="http://my.icidc.com/clientarea.php" target="_parent"><span class="font14 margin10 console">管理控制台</span></a>
+			</div>
+ </div>   
+ </div>
+<div id="processing" style="display:none"></div>
+<div id="swin" style="display:none"></div>
+<div id="suwin" style="display:none"></div>
+	    <div class="boxed animated animation-delay-5">
+        <div id="header" class="hidden-xs">
+            <div class="container">
+                <div id="header-title" >
+                    <h1 ><img src="/static/images/logo.png" ></h1>
+                </div>
+				                <div id="search-header" class="hidden-xs animated">
+                    <div class="input-group">
+						<form action="/index.php?r=Article/Search/index" method="post" target="_blank">
+						<!--<<form action="" method="post" target="_blank"> -->
+							<input model="0" type="hidden">
+							<input name="tbname" value="0" type="hidden">
+							<input name="tempid" value="0" type="hidden">
+							<input class="input-keyword" name="keyword" placeholder="输入关键词..." type="text">
+							<button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+						</form>
+							<style>form input[name='keyword'] {width:400px;border:#056ca7 4px solid;padding:6px;}</style>
+                  </div><!-- /input-group -->
+                </div>
+            </div> <!-- container -->
+        </div> <!-- header -->
+        <div class="navbar navbar-static-top navbar-mind" role="navigation" >
+            <div class="container">
+                    <ul class="nav navbar-nav">
+
+                        <li  class="active" ><a  class="u-crt dropdown-toggle"   href="/">首页</a></li>
+
+						
+                        <li >
+
+                            <a href="http://www.icidc.com/cloud.html" >云主机</a>
+                        </li>
+						
+                        <li >
+
+                            <a href="http://www.icidc.com/server.html" >独立服务器</a>
+                        </li>
+						
+                        <li >
+
+                            <a href="http://www.icidc.com/support/index.html" >服务与支持</a>
+                        </li>
+						
+                        <li >
+
+                            <a href="http://www.icidc.com/about.html" >关于我们</a>
+                        </li>
+						                    </ul> <!-- nav nabvar-nav -->
+                    <ul class="nav navbar-nav navbar-right" style="margin-right:0px">
+					 <li class="dropdown" >
+                            <a href="http://my.icidc.com/clientarea.php" class="dropdown-toggle"  ><i class="fa fa-home" ></i>&nbsp;用户中心</a>
+                        </li>
+                        <li class="dropdown login" >
+						<a href="http://my.icidc.com/login.php" class="dropdown-toggle"  ><i class="fa fa-home" ></i>&nbsp;登陆账户</a>
+                        </li> <!-- dropdown -->
+                    </ul> <!-- nav nabvar-nav -->
+            </div> <!-- container -->
+        </div> <!-- navbar navbar-default -->        <div class="section">
+            <div id="carousel-generic" class="carousel  " data-ride="carousel" data-interval="5000">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-generic" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-generic" data-slide-to="1"></li>
+                    <li data-target="#carousel-generic" data-slide-to="2"></li>
+                </ol>
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                    <div class="item active carousel-mind">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-8">
+                                    <div class="carousel-caption">
+                                        <div class="carousel-text">
+                                           <h1 class="animated fadeInDownBig">镇江独立服务器 本月6.9折优惠！</h1>
+                                           <ul class="list-unstyled carousel-list">
+                                               <li class="animated bounceInLeft"><i class="fa fa-jsfiddle"></i><span>双路L5630+32GB+1TB+20M独享=499元一月</span></li>
+                                               <li class="animated bounceInLeft"><i class="fa fa-cubes"></i><span>测试IP：222.186.52.1 222.186.31.254</span></li>
+                                               <li class="animated bounceInLeft"><i class="fa fa-cogs"></i><span>优惠仅此一次，时间有限，买到就是赚到！</span></li>
+                                           </ul>
+                                       </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item carousel-mind carousel-mind-back-3">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-8">
+                                    <div class="carousel-caption">
+                                        <div class="carousel-text">
+                                           <h1 class="animated fadeInDownBig">更优惠的价格，更贴心的服务</h1>
+                                           <ul class="list-unstyled carousel-list">
+                                               <li class="animated bounceInLeft"><i class="fa fa-calendar"></i><span>支持按月购买，香港VPS最低99元一月，史无前例的巨惠！</span></li>
+                                               <li class="animated bounceInLeft"><i class="fa fa-th-large"></i><span>美国VPS，外贸VPS，香港VPS均无需备案</span></li>
+                                               <li class="animated bounceInLeft"><i class="fa fa-comments"></i><span>简单易用的控制面板，专业运营团队7*24小时服务</span></li>
+                                           </ul>
+                                       </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item carousel-mind carousel-mind-back-4">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-8">
+                                    <div class="carousel-caption">
+                                        <div class="carousel-text">
+                                           <h1 class="animated fadeInDownBig">多年行业经验，我们更懂网站托管</h1>
+                                           <ul class="list-unstyled carousel-list">
+                                               <li class="animated bounceInLeft"><i class="fa fa-eye"></i><span>专注于中小网站的托管，运维经验丰富</span></li>
+                                               <li class="animated bounceInLeft"><i class="fa fa-share-alt"></i><span>免费环境安装调试，让您不懂技术也能轻松上手</span></li>
+                                               <li class="animated bounceInLeft"><i class="fa fa-wordpress"></i><span>Wordpress/ZenCart/Discuz等多种应用环境，即开即用</span></li>
+                                           </ul>
+                                       </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- carousel -->
+        <div class="section" id="mind-features">
+            <div class="container">
+				<div class="index-btn">
+					<span class="fa-stack fa-3x icons">
+				  <i class="fa fa-circle fa-stack-2x"></i>
+				  <i class="fa fa-flash fa-stack-1x fa-inverse"></i>
+				</span>												
+				<strong>10分钟快速交付</strong>
+				<small>巨牛云计算自主运营超过千台服务器，现机在架，10分钟内即可快速完成交付，并协助完成资源部署！</small>
+				</div>
+				<div class="index-btn-mid">
+					<span class="fa-stack fa-3x icons">
+				  <i class="fa fa-circle fa-stack-2x"></i>
+				  <i class="fa fa-cloud-upload fa-stack-1x fa-inverse"></i>
+				</span>												
+				<strong>全Dell品牌硬件</strong>
+				<small>巨牛云计算在架的所有服务器均为DELL品牌硬件，运行稳定，容错度高，且可灵活拓展资源！</small>
+				</div>
+				<div class="index-btn-last">
+					<span class="fa-stack fa-3x icons">
+				  <i class="fa fa-circle fa-stack-2x"></i>
+				  <i class="fa fa-shield fa-stack-1x fa-inverse"></i>
+				</span>												
+				<strong>一键重启、开关机</strong>
+				<small>您可随时登录后台，进行一键开机、一键关机和一键重启服务器，5分钟内即可完成。无需漫长等待！</small>
+				</div>
+            </div>
+        </div>
+		<div class="container">
+            <h2 class="section-title">推荐独立服务器</h2>
+            <div class="section">
+                <div class="row">
+<div class="col-lg-3 col-sm-6">
+                        <div class="pricign-box animated  animation-delay-9">
+                            <div class="pricing-box-header">
+                                <h2>香港E3-1230 V2</h2>
+                                <p>适合企业官网、个人站点、论坛</p>
+                            </div>
+                            <div class="pricing-box-price" style="font-weight:bold;padding-top:15px;">
+                                <span style="color:#ff6600;font-size:24px;margin-left:10px;">￥799</span><span style="color:#ff6600;">元/月</span>
+								<span><s>原价899元/月</s></span>                        </div>
+                            <div class="pricing-box-content">
+                                 <ul>
+<li><i class="fa fa-angle-right"></i> 4核心</li>
+                                    <li><i class="fa fa-angle-right"></i> 8GB DDR3 ECC 内存</li>
+                                    <li><i class="fa fa-angle-right"></i> 1000 GB 磁盘存储</li>
+                                    <li><i class="fa fa-angle-right"></i> 5Mbps 带宽/不限流量</li>
+                                    <li><i class="fa fa-angle-right"></i> 公网独立IP 5个</li>
+                                    <li><i class="fa fa-angle-right"></i> 香港ST机房</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-box-footer">
+                                <a href="https://my.icidc.com/cart.php?a=add&pid=14" class="btn btn-primary">立即购买</a>
+                            </div>
+                        </div>
+                    </div>
+					<div class="col-lg-3 col-sm-6">
+                        <div class="pricign-box animated  animation-delay-9">
+                             <div class="pricing-box-header">
+                                <h2>美国站群双路 至强L5630</h2>
+								<p>适合站群、大流量网站使用</p>
+                            </div>
+                            <div class="pricing-box-price" style="font-weight:bold;padding-top:15px;">
+                                <span style="color:#ff6600;font-size:24px;margin-left:10px;">￥899</span><span style="color:#ff6600;">元/月</span>
+								<span><s>原价1099元/月</s></span>                        </div>
+                            <div class="pricing-box-content">
+                                 <ul>
+<li><i class="fa fa-angle-right"></i> 8核心</li>
+                                    <li><i class="fa fa-angle-right"></i>32GB DDR3 ECC 内存</li>
+                                    <li><i class="fa fa-angle-right"></i> 1000 GB 磁盘存储</li>
+                                    <li><i class="fa fa-angle-right"></i> 100Mbps 带宽/不限流量</li>
+                                    <li><i class="fa fa-angle-right"></i> 公网独立IP 258个</li>
+                                    <li><i class="fa fa-angle-right"></i> 美国LA机房</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-box-footer">
+                                <a href="https://my.icidc.com/cart.php?a=add&pid=3" class="btn btn-primary">立即购买</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="pricign-box  animated animation-delay-9">
+                            <div class="pricing-box-header">
+                                <h2>韩国Intel Xeon X3440</h2>
+								<p>4核4G内存的韩国服务器，超实惠！</p>
+                            </div>
+                            <div class="pricing-box-price" style="font-weight:bold;padding-top:15px;">
+                                <span style="color:#ff6600;font-size:24px;margin-left:10px;">￥699</span><span style="color:#ff6600;">元/月</span>
+								<span><span><s>原价899元/月</s></span> </div>
+                            <div class="pricing-box-content">
+                                 <ul>
+									<li><i class="fa fa-angle-right"></i> 4核心</li>
+                                    <li><i class="fa fa-angle-right"></i> 4GB DDR3 ECC 内存</li>
+                                    <li><i class="fa fa-angle-right"></i> 1000 GB 磁盘存储</li>
+                                    <li><i class="fa fa-angle-right"></i> 10Mbps 带宽/不限流量</li>
+                                    <li><i class="fa fa-angle-right"></i> 公网独立IP 5个</li>
+                                    <li><i class="fa fa-angle-right"></i> 韩国KT机房</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-box-footer">
+                                <a href="https://my.icidc.com/cart.php?a=add&pid=7" class="btn btn-primary">立即购买</a>
+                            </div>
+                        </div>
+                    </div>
+					<div class="col-lg-3 col-sm-6">
+                        <div class="pricign-box animated animation-delay-9">
+                            <div class="pricing-box-header">
+                                <h2>镇江双路L5630</h2>
+								<p>国内访问速度快，适合网站等应用</p>
+                            </div>
+                            <div class="pricing-box-price" style="font-weight:bold;padding-top:15px;">
+                                <span style="color:#ff6600;font-size:24px;margin-left:10px;">￥499</span><span style="color:#ff6600;">元/月</span>
+								<span><span><s>原价599元/月</s></span> </div>
+                            <div class="pricing-box-content">
+                                <ul>
+                                    <li><i class="fa fa-angle-right"></i> 8核心</li>
+                                    <li><i class="fa fa-angle-right"></i> 32G DDR3 ECC 内存</li>
+                                    <li><i class="fa fa-angle-right"></i> 1000 GB 磁盘存储</li>
+                                    <li><i class="fa fa-angle-right"></i> 20Mbps 独享带宽/不限流量</li>
+                                    <li><i class="fa fa-angle-right"></i> 公网独立IP 1个</li>
+                                    <li><i class="fa fa-angle-right"></i> 镇江电信机房</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-box-footer">
+                                <a href="https://my.icidc.com/cart.php?a=add&pid=10" class="btn btn-primary">立即购买</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div> <!-- container -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-7">
+                          <article class="component-element" id="navs">
+                             <h2 class="underline-title no-margin-top">数据中心</h2>
+							<!-- Nav tabs -->
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a href="#hz" data-toggle="tab"><i class="fa fa-dot-circle-o"></i> 香港ST机房</a></li>
+								<li><a href="#hn" data-toggle="tab"><i class="fa fa-dot-circle-o"></i> 美国LA机房</a></li>
+                                <li><a href="#hk" data-toggle="tab"><i class="fa fa-dot-circle-o"></i> 韩国KT机房</a></li>
+                            </ul>
+                            <!-- Tab panes -->
+                            <div class="tab-content">
+                                <div class="tab-pane active" id="hz">
+                                   <div class="media">								
+									<div class="img-caption" style="width:100px;float:left" >
+									   <img src="static/images/hz.jpg" class="img-responsive" alt="Image" >
+									   
+								   </div>
+                                    <div class="media-body"  style="padding-left:10px;line-height:25px;">
+                                        <h4 class="media-heading"><a href="#">香港ST机房简介</a></h4>
+                                        <p style="padding-left:1px;">双10G出口直连中国电信、NWT、PCCW等核心运营商。核心路由、汇聚及三层交换网络设备均采用双冗余堆叠热备方式，网络可用性超过99.99%，国际出口带宽，无须白名单设置，无须备案，可随时网站接入。</p>
+                                    </div>
+                                </div>
+                                </div>
+                                <div class="tab-pane" id="hn">
+									<div class="media">								
+									<div class="img-caption" style="width:100px;float:left" >
+									   <img src="static/images/yt.jpg" class="img-responsive" alt="Image" >
+									   
+								   </div>
+                                    <div class="media-body"  style="padding-left:10px;line-height:25px;">
+                                        <h4 class="media-heading"><a href="#">美国LA机房简介</a></h4>
+                                        <p>
+										美国洛杉矶机房成立于1999年，机房带宽接入商有HE.NET、Level3、PCCW、NTT、Linkline、Cogent等，带宽充足，在线率99.9%。 机房提供每天24小时，每周7天的不间断监控。 机房通过10Gbps出口和中国联通国际出口直连，到大陆访问节点少，速度优秀，对美国全境速度极其稳定。
+										</p>
+                                    </div>
+                                </div>       
+                                </div>
+								<div class="tab-pane" id="hk">
+								<div class="media">								
+									<div class="img-caption" style="width:100px;float:left" >
+									   <img src="static/images/hk.jpg" class="img-responsive" alt="Image" >
+									   
+								   </div>
+                                    <div class="media-body"  style="padding-left:10px;line-height:25px;">
+                                        <h4 class="media-heading"><a href="#">韩国KT机房简介</a></h4>
+                                        <p style="padding-left:1px;">
+										韩国KT机房位于首尔（SEOUL）机房备有千兆思科CSICO交换机和最新的网络设备，拥有一流的环境和设施，总带宽300G。该机房稳定性不错，速度堪比双线，ping值平均小于80MS，是海外稳定性中的佼佼者。
+										</p>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                          </article>
+                    </div>
+       	
+       	
+       	
+       			   
+                    <div class="col-md-5">
+                        <h2 class="underline-title no-margin-top">我们的优势</h2>
+                                    <div style="color:#333333">
+									<div class="row">
+									  <div class="col-md-2">
+									  <div style="border:1px solid #cccccc;padding:1px;float:left;">
+										<div style="background:#0093E8;height:65px;width:65px;text-align:center; color:#ffffff;padding-top:12px;font-size:45px;">
+										  <i class="fa fa-paper-plane" ></i>
+										  </div>
+										</div>
+										</div>
+									  <div class="col-md-10">
+									    <b > 品牌服务，实力保证</b><br />
+										   <div style="font-size:12px;padding-top:5px;">
+										我们与国际高端机房深入合作，为中小网站，企业外贸网站提供最佳的解决方案。我们同时有内地及香港公司执照，专业网络公司自主运营，硬件带宽资源充足，品牌实力保证！
+										</p>
+                                        </div>
+									  </div>
+									</div>
+									<div class="row" style="margin-top:15px;">
+									  <div class="col-md-2">
+									   <div style="border:1px solid #cccccc;padding:1px;float:left;">
+										<div style="background:#0093E8;height:65px;width:65px;text-align:center; color:#ffffff;padding-top:12px;font-size:45px;">
+										  <i class="fa fa-users" ></i>
+										  </div>
+										</div>
+										</div>
+									  <div class="col-md-10">
+									    <b> 多年行业经验，更懂网站托管</b><br />
+										   <div style="font-size:12px;padding-top:5px;">										8年来我们不做游戏客户、不做视频客户，只专注于网站的托管服务。丰富的运维经验，让我们可以为客户提供更多关于主机配置、性能优化、数据库维护、数据备份恢复等方面的服务。
+										</div>
+									  </div>
+									</div>
+								</div>
+                    </div>
+                </div>
+            </div> <!-- container -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-7">
+					 <h2 class="underline-title no-margin-top">新闻动态</h2>
+					                      <div class="home-post">
+                        <p>【公告】 <a href='http://www.icidc.com/news/5.html'>2016年国庆节放假时间安排</a><span style="float:right">2016-12-13</span></p>
+                        </div>
+						
+                    </div>
+                    <div class="col-md-5" style="line-height:25px;">
+					 <h2 class="underline-title no-margin-top">优惠活动</h2>
+					                      <h4><a href="http://www.icidc.com/active/6.html" target="_blank" style="color:#0093E8">香港VPS沙田数据中心12月份：4G内存仅100元一月</a></h4>
+                     <p><p><span style="color: rgb(68, 68, 68); line-height: 25px; font-family: &quot;Microsoft YaHei&quot;, arial, Lato, sans-serif; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">尊敬的用户和合作伙伴：感谢您七年以来对我们的支持和信任，12月份香港VPS优惠码：DEC中国香港数据中心2G内存套餐，12月份6.9折优惠，…</span></p></p>
+						
+                    </div>
+                </div>
+            </div> <!-- container -->
+
+        <div id="footer-widgets">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <h3 class="footer-widget-title">新手上路</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="/xufei/index.html">如何购买</a></li>
+                            <li><a href="/zhinan/index.html">如何使用</a></li>
+                            <li><a href="/partner.html">合作加盟</a></li>
+                       
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <h3 class="footer-widget-title">产品与服务</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="/cloud.html">云主机购买</a></li>
+                            <li><a href="/feature.html">云主机特性</a></li>
+                            <li><a href="/tos.html">服务条款</a></li>
+                        </ul>
+                    </div>
+					<div class="col-md-4">
+                        <h3 class="footer-widget-title">技术支持</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="/jieshao/index.html">产品使用说明</a></li>
+                            <li><a href="https://wpa.qq.com/msgrd?v=3&uin=4006066557&site=qq&menu=yes">售后咨询</a></li>
+                            <li><a href="http://my.icidc.com/submitticket.php">工单系统</a></li>
+							<li><a href="/support/index.html">帮助中心</a></li>
+                        </ul>
+                    </div>
+					<div class="col-md-4">
+                        <h3 class="footer-widget-title">关于我们</h3>
+                        <ul class="list-unstyled">
+							<li><a href="/about.html#contact">联系我们</a></li> 
+							<li><a href="/about.html">公司简介</a></li>
+							<li><a href="/news/index.html">新闻动态</a></li>                            
+							<li><a href="http://my.icidc.com/login.php">付款方式</a></li>
+                        </ul>      
+                    </div>
+					<div class="col-md-4">
+                        <h3 class="footer-widget-title">联系我们</h3>
+                        <ul class="list-unstyled">
+                       <li><a href="javascript:void();" style="cursor:pointer;" onclick="opendialog('http://crm2.qq.com/page/portalpage/wpa.php?uin=4006066557&cref=www.icidc.com&ref=&pt=&f=1&ty=1&ap=&as=&aty=2&a=2&dm=qq.com&sv=4&sp=&ref='+document.location,'644','540')"><i class="icon-qq"></i> 4006066557</a></li>
+            <li class="t"><i class="icon-tel"></i> <a>0574-87456609</a></li>
+				<li><a href="http://www.miitbeian.gov.cn" target="_blank">浙ICP备14027071号-2</a></li>
+				<li><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1261520273'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1261520273' type='text/javascript'%3E%3C/script%3E"));</script></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="footer-widget">
+                            <h3 class="footer-widget-title"></h3>
+                            <div class="row">
+                                <img src="/static/images/weixin.png" />
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- footer-widgets -->
+<div id="footer">
+            <p>Copyright &copy; 2009-2016 icidc All Rights Reserved.</p>
+        </div>
+    </div> <!-- boxed -->
+	<div class="kf">
+	<div class="os_x"></div>
+    <div class="osqq">
+   	<div class="kf-title">售前咨询</div>
+        <a href="javascript:void();" style="cursor:pointer;" onclick="opendialog('http://wpa.qq.com/msgrd?v=3&uin=99823762&site=qq&menu=yes')"><div class="qq_btn"></div></a>
+        <a href="javascript:void();" style="cursor:pointer;" onclick="opendialog('http://wpa.qq.com/msgrd?v=3&uin=1269707808&site=qq&menu=yes')"><div class="qq_btn"></div></a>
+        <a href="javascript:void();" style="cursor:pointer;" onclick="opendialog('http://wpa.qq.com/msgrd?v=3&uin=1850572602&site=qq&menu=yes')"><div class="qq_btn"></div></a>
+     	<div class="kf-middle"><a href="javascript:void();" style="cursor:pointer;" onclick="opendialog('http://my.icidc.com/submitticket.php')">提交工单</a></div>
+	<div class="kf-bottom">电话咨询</div>
+	<span>400-6066-557</span>
+    </div>
+	</div>
+	<div class="kf-sidebar">
+		<p class="ico"></p>
+	</div>
+    <!-- Scripts -->
+	<script src="/static/js/jquery-1.10.2.min.js"></script>
+	<script src="/static/js/jquery-ui.custom.min.js"></script>
+	<script src="/static/js/jquery.SuperSlide.js"></script>
+    <!--<script src="/static/js/common.js"></script>-->	
+    <script src="/static/js/jquery.cookie.js"></script>
+    <script src="/static/js/bootstrap.js"></script>
+    <script src="/static/js/jquery.mixitup.min.js"></script>
+    <script src="/static/js/lightbox-2.6.min.js"></script>
+    <script src="/static/js/holder.js"></script>
+    <script src="/static/js/app.js"></script>
+    <!--<script src="/js/system/user.js"></script>-->
+	<script src="/static/js/kf.js"></script>	
+</body>
+</html>

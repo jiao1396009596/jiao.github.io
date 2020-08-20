@@ -1,0 +1,14 @@
+﻿.kf .os_x{ background:url(../images/close.gif) no-repeat;}
+.kf{ height:auto; overflow:hidden; width:139px; position:fixed; right:0; top:200px; _position:absolute; z-index:10000;display:none;margin-right:2px;}
+.kf .os_x{ background-color:#f7f7f7; background-position:2px 2px; width:18px; height:20px; float:right; display:inline; cursor:pointer;}
+
+.kf .osqq{ width:139px; background-color:#fff; background:url(../images/main.png) no-repeat; clear:both; padding:37px 0 8px 0; text-align:center;height:400px;}
+.kf .osqq .kf-title{ color:#0093E8;font-size:16px;margin-top:20px;margin-bottom:10px;font-weight:bold;}
+.kf .osqq .kf-middle{ color:#0093E8;font-size:16px;margin-top:15px;font-weight:bold;}
+.kf .osqq .kf-middle a{color:#0093E8}
+.kf .osqq .kf-bottom{ color:#0093E8;font-size:16px;margin-top:20px;font-weight:bold;}
+.kf .osqq  span{color:#666666;font-size:12px;line-height:25px}
+
+.kf-sidebar{ background:none; display:none; width:39px; *width:84px; height:178px;position:fixed; right:0; top:300px; _position:absolute;}
+.kf-sidebar .ico{ background:url(../images/sitebar.png) no-repeat;  cursor:pointer; width:32px; height:127px; float:right;margin-right:2px;z-index:10000;}
+.qq_btn{ background:url(../images/wpa_a01.png) no-repeat; width:92px;height:32px;margin:3px auto}
